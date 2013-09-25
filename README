@@ -1,5 +1,7 @@
 Pixel Paparazzi / Notw ("News of the World")
 
+(c) Mark K Cowan, mark@battlesnake.co.uk
+
 Compile with Delphi / Freepascal / Lazarus on WINDOWS
 
 NOTE/KNOWN BUGS: Probably doesn't play well on multi-monitor setups.
