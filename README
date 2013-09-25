@@ -1,0 +1,17 @@
+Pixel Paparazzi / Notw ("News of the World")
+
+NOTE/KNOWN BUGS: Probably doesn't play well on multi-monitor setups.
+
+Takes pictures of things that it perhaps shouldn't.
+
+Key shortcut       Tray-menu shortcut      Action
+PRINTSCREEN        Left-click              Take snapshot, save to .\SG_<number>.bmp
+ALT+SCROLLLOCK     (none)                  Subwindow (see below)
+CTRL+C             Right-click             Close
+
+Subwindow:
+  By default, Notw takes screenshots of the entire desktop.  Put the cursor over a
+  window of interest and use subwindow to set that window as the target, so that
+  only that window is saved when screenshots are taken.  The target window will be
+  flashed briefly to show that it is selected.  To subwindow a child window, simply
+  keep using the subwindow shortcut until only the window of interest flashes.
